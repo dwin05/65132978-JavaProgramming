@@ -7,7 +7,7 @@ public class Bai3_TheTich {
 		System.out.print("Nhap canh: "); 
 		double canh = input.nextDouble();
 		
-		double V = canh * canh * canh;
+		double V = Math.pow(canh, 3);
 		
 		System.out.print("The tich khoi lap phuong: " +V);
 		

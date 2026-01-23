@@ -15,6 +15,7 @@ public class Bai2_ChuViDT {
 		System.out.println("Chu vi hinh chu nhat: " + (chieuDai + chieuRong) *2);
 		
 		double canhNho = (chieuDai > chieuRong) ? chieuDai: chieuRong;
+		 //double CanhNho = Math.min(chieuDai, chieuRong);
 		System.out.println("Canh nho cua hinh chu nhat: " + canhNho);
 		
 		input.close();

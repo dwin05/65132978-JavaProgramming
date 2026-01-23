@@ -13,8 +13,8 @@ public class Bai4_Delta {
 		System.out.print("Nhap c: ");
 		int c = input.nextInt();
 
-		System.out.print("");
-		int delta = b * b - 4*a*c;
+		System.out.println(" ");
+		double delta = Math.pow(b, 2) - 4*a*c;
 		System.out.println("Delta = " +delta);
 		
 		if (delta >= 0) {
