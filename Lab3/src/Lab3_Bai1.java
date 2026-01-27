@@ -20,5 +20,7 @@ public class Lab3_Bai1 {
 			System.out.println(n + " la so nguyen to");
 		else 
 			System.out.println(n + " khong la so nguyen to");
+		input.close();
 	}
+	
 }

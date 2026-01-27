@@ -10,6 +10,7 @@ public class Lab2_Bai3 {
 			tien = sd*1000;
 		else tien = 50*1000 + (sd-50)*1200;
 		System.out.print("So tien can tra: " +tien+ " VND");
+		
+		input.close();
 	}
-
 }
