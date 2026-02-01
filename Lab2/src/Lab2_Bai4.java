@@ -10,7 +10,7 @@ public class Lab2_Bai4 {
 			case 1: Bai1(); break;
 			case 2: Bai2(); break;
 			case 3: Bai3(); break;	
-			case 4: System.out.println("Thoat chuong trinh!");break;
+			case 4: System.out.println("Dung chuong trinh!");break;
 			default: System.out.println("Chuc nang khong hop le!");
 			}
 		}while(chon != 4);
