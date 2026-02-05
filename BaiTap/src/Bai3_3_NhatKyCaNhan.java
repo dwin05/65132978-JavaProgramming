@@ -32,6 +32,7 @@ public class Bai3_3_NhatKyCaNhan {
 			writer.write(String.format("\nChieu cao: %.2f", height));
 			writer.write(String.format("\nCan nang: %.2f", weight));
 			writer.write(String.format("\nBMI: %.2f", BMI));
+			writer.close();
 		}catch(IOException e) {
 			System.out.print("Loi nhap file!");
 		}
