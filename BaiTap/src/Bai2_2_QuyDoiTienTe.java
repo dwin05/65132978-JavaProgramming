@@ -1,5 +1,5 @@
 
-public class Bai2_2 {
+public class Bai2_2_QuyDoiTienTe {
 
 	public static void main(String[] args) {
 		double VND = 50000;

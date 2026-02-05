@@ -1,4 +1,4 @@
-public class Bai1_4 {
+public class Bai1_4_Greeting {
 	public static void main(String[] args) {
 		String greeting = """
 				Hello java
